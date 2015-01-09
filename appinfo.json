@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "klreng@comcast.net",
+    "longName": "MotionTest",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "MotionTest",
+    "uuid": "48a9e29a-928d-4fa3-9bd9-6b687d6ca944",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
